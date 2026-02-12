@@ -1,7 +1,7 @@
 <h1>System Won't Boot - Turns Off Shortly After</h1>
 
 <h2>Description</h2>
-A ticket-solving practice of an employee's PC having a boot issue in a simulated environment, IT Specialist Simulator.
+A ticket-solving practice of an employee's PC with a boot issue in a simulated environment, IT Specialist Simulator.
 <br />
 
 <h2>Environments Used</h2>
@@ -64,7 +64,7 @@ Once the installation is done, the PC reboots and finishes the OS configuration.
 <br/>
 
 <p align="center">
-Once I got through the installation, I wanted to configure the network settings, so I can install the necessary applications. <br/>
+Once I got through the installation, I wanted to configure the network settings, so I can install the necessary basic applications. <br/>
 <img width="1568" height="910" alt="image" src="https://github.com/user-attachments/assets/334e45e2-b787-4a6a-93c2-ec065751ee15" />
 <img width="1527" height="827" alt="image" src="https://github.com/user-attachments/assets/02e388e4-a8b5-4cbb-ab78-838d892fa78e" />
 
